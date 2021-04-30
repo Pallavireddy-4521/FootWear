@@ -1,0 +1,38 @@
+.c1{
+    text-align:center;
+}
+.c2{
+    text-decoration:none;
+}
+h2{
+    text-align: center;
+}
+form{
+    align-content: center;
+}
+
+
+button{
+    background-color: rgb(23, 173, 199);
+    align-content: center;  
+}
+
+table,th,td{
+    border:1px;
+    border-collapse: collapse;
+    align-content: center;
+}
+th,td{
+    padding:15px;
+    text-align:left;
+}
+th{
+    background-color: blue;
+    color:black;
+}
+tr:nth-child(even){
+    background-color: #eee;
+}
+tr:nth-child(odd){
+    background-color: #fff;
+}
